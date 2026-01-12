@@ -8,21 +8,19 @@ I am a Data Scientist with a strong foundation in statistical modeling and a tra
 
 My technical approach is grounded in first principles. I specialize in:
 
-ML & Math: Implementing algorithms like Hidden Markov Models from scratch to deeply understand their mechanics, while applying CNNs and Deep Learning frameworks for complex pattern recognition.
+ML & Math: Implementing algorithms like Hidden Markov Models and Clustering from scratch to deeply understand their mechanics, while applying CNNs and Deep Learning frameworks for complex pattern recognition.
 
 Modern Data Engineering: Architecting scalable pipelines using DuckDB, dbt, and SQL to transform unstructured data into investment-ready insights.
 
-Multimodal Analysis: Fusing logs, audio, and vision data to solve messy, real-world problems.
+Multimodal Analysis: Fusing behavioral data, audio transcripts, and vision/eye-tracking metrics to solve high-stakes problems in healthcare and education.
 
-🔭 I’m currently working on Multimodal ADHD diagnosis integrating eye-tracking (NiCATS) & behavioral data
+🔭 M.S. Thesis: Engineered a multimodal pipeline for ADHD Diagnosis integrating eye-tracking (NiCATS) and behavioral data (IVA2), using graph-based feature engineering (AOI entropy) to define high-risk computational phenotypes.
 
-🔬 My research interests include Human-Centered AI (HCAI), XAI, Affective Computing, & Multimodal User Modeling
+🔬 Research Interests: Human-Centered AI (HCAI), Explainable AI (XAI), AI in Education, Affective Computing, and Multimodal User Modeling.
 
-🌱 I’m currently learning Generative AI and Large Language Model fine-tuning
+🌱 Learning: Currently mastering Generative AI and LLM Fine-tuning (PEFT/LoRA).
 
-👯 I’m looking to collaborate on Open Source ML projects and Data Architecture challenges
-
-💬 Ask me about Python, Probability, DuckDB, and Data Strategy
+💬 Ask me about: Python, Probability, DuckDB, and Data Strategy.
 
 🛠️ Tech Stack & Tools
 
@@ -35,8 +33,8 @@ Data Engineering & Visualization
 📊 GitHub Analytics
 
 <div align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DRushmila24222%26show_icons%3Dtrue%26theme%3Dradical%26hide_border%3Dtrue%26bg_color%3D0D1117%26title_color%3D58A6FF%26icon_color%3DF0F6FC%26text_color%3D8B949E" height="150" alt="stats graph"  />
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DRushmila24222%26layout%3Dcompact%26theme%3Dradical%26hide_border%3Dtrue%26bg_color%3D0D1117%26title_color%3D58A6FF%26icon_color%3DF0F6FC%26text_color%3D8B949E" height="150" alt="languages graph" />
+<img src="https://github-readme-stats.vercel.app/api%3Fusername%3DRushmila24222%26show_icons%3Dtrue%26theme%3Dradical%26hide_border%3Dtrue%26bg_color%3D0D1117%26title_color%3D58A6FF%26icon_color%3DF0F6FC%26text_color%3D8B949E" height="150" alt="stats graph" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DRushmila24222%26layout%3Dcompact%26theme%3Dradical%26hide_border%3Dtrue%26bg_color%3D0D1117%26title_color%3D58A6FF%26icon_color%3DF0F6FC%26text_color%3D8B949E" height="150" alt="languages graph" />
 </div>
 
 🏆 Featured Projects
@@ -49,27 +47,27 @@ Tech Stack
 
 Hidden-Markov-Model
 
-Economic modeling tool built from scratch using HMMs and K-Means to detect regime transitions (78% accuracy).
+Built Forward-Backward & Viterbi algorithms from scratch to detect economic regime transitions (78% accuracy).
 
-Python NumPy Math
+Python NumPy Probability
 
 Dendrogram
 
-Developed a hierarchical clustering tool to visualize complex data relationships without relying on high-level ML wrappers.
+Developed a hierarchical clustering tool to visualize complex data relationships using graph-based feature engineering.
 
 Python SciPy Matplotlib
 
 Data_Warehousing
 
-Designed a Realtime Lakehouse architecture, implementing ETL pipelines, Star Schemas, and data quality contracts.
+Designed a Realtime Lakehouse architecture, implementing ETL pipelines, Star Schemas, and Data Quality contracts.
 
-SQL ETL Data Modeling
+SQL DuckDB dbt
 
 Audio_Recorder
 
-A low-level system utility for audio capture, showcasing efficiency and memory management in C++.
+Low-level system utility developed for experimental thesis work, showcasing efficiency in C++.
 
-C++ System Programming
+C++ Systems
 
 <div align="center">
 <p><i>Let's connect and talk data!</i></p>
