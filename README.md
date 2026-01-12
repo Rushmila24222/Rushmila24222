@@ -1,4 +1,4 @@
-##Hi there, I'm Rushmila! 👋
+# Hi there, I'm Rushmila! 👋
 
 🚀 Data Scientist (M.S. CS) | AI Researcher | Strategy & Operations
 
@@ -8,13 +8,13 @@ I am a Data Scientist with a strong foundation in statistical modeling and a tra
 
 My technical approach is grounded in first principles. I specialize in:
 
-ML & Math: Implementing algorithms like Hidden Markov Models and CNNs from scratch to deeply understand their mechanics.
+ML & Math: Implementing ML models from scratch to deeply understand their mechanics.
 
 Modern Data Engineering: Architecting scalable pipelines using DuckDB, dbt, and SQL to transform unstructured data into investment-ready insights.
 
 Multimodal Analysis: fusing logs, audio, and vision data to solve messy, real-world problems.
 
-🔭 I’m currently working on Economic regime detection using probabilistic models
+🔭 I’m currently working on Multimodal System Integrtion and Economic regime detection using probabilistic models
 
 🌱 I’m currently learning Generative AI and Large Language Model fine-tuning
 
@@ -31,7 +31,7 @@ Machine Learning & Math
 Data Engineering & Visualization
 
 📊 GitHub Analytics
-
+<!-- These are dynamic cards that update automatically. -->
 <div align="center">
 <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DRushmila24222%26show_icons%3Dtrue%26theme%3Dradical%26hide_border%3Dtrue%26bg_color%3D0D1117%26title_color%3D58A6FF%26icon_color%3DF0F6FC%26text_color%3D8B949E" height="150" alt="stats graph"  />
 <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DRushmila24222%26layout%3Dcompact%26theme%3Dradical%26hide_border%3Dtrue%26bg_color%3D0D1117%26title_color%3D58A6FF%26icon_color%3DF0F6FC%26text_color%3D8B949E" height="150" alt="languages graph" />
