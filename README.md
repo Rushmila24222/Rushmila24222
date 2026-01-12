@@ -49,7 +49,7 @@ My technical approach is grounded in **first principles**. I specialize in:
 | :--- | :--- | :--- |
 | [**Hidden-Markov-Model**](https://github.com/Rushmila24222/Hidden-Markov-Model) | Built Forward-Backward & Viterbi algorithms from scratch to detect economic regime transitions (78% accuracy). | `Python` `NumPy` `Probability` |
 | [**Dendrogram**](https://github.com/Rushmila24222/Dendrogram) | Developed a hierarchical clustering tool to visualize complex data relationships using graph-based feature engineering. | `Python` `SciPy` `Matplotlib` |
-| [**Data_Warehousing**](https://github.com/Rushmila24222/Data_Warehousing) | Designed a Realtime Lakehouse architecture, implementing ETL pipelines, Star Schemas, and Data Quality contracts. | `SQL` `DuckDB` `dbt` |
+| [**Data_Warehousing**](https://github.com/Rushmila24222/Data_Warehousing) | Designed a Realtime Lakehouse architecture, implementing ETL pipelines, Star Schemas, and Data Quality contracts. | `MySQL` `node.JS`  |
 | [**Audio_Recorder**](https://github.com/Rushmila24222/Audio_Recorder) | Low-level system utility developed for experimental thesis work, showcasing efficiency in C++. | `C++` `Systems` |
 
 ---
