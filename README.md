@@ -16,6 +16,8 @@ Multimodal Analysis: Fusing logs, audio, and vision data to solve messy, real-wo
 
 🔭 I’m currently working on Multimodal ADHD diagnosis integrating eye-tracking (NiCATS) & behavioral data
 
+🔬 My research interests include Human-Centered AI (HCAI), XAI, Affective Computing, & Multimodal User Modeling
+
 🌱 I’m currently learning Generative AI and Large Language Model fine-tuning
 
 👯 I’m looking to collaborate on Open Source ML projects and Data Architecture challenges
@@ -31,8 +33,6 @@ Machine Learning & Math
 Data Engineering & Visualization
 
 📊 GitHub Analytics
-
-<!-- These are dynamic cards that update automatically. -->
 
 <div align="center">
 <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DRushmila24222%26show_icons%3Dtrue%26theme%3Dradical%26hide_border%3Dtrue%26bg_color%3D0D1117%26title_color%3D58A6FF%26icon_color%3DF0F6FC%26text_color%3D8B949E" height="150" alt="stats graph"  />
